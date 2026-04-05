@@ -41,3 +41,6 @@ At scale, these challenges impact operational efficiency, cost, and overall serv
 
 ## Notes
 This case study is based on real-world healthcare experience and reflects common operational challenges, without including proprietary or sensitive data.
+
+## Future Considerations
+- Incorporation of predictive analytics to identify high-risk or high-complexity claims earlier in the workflow
