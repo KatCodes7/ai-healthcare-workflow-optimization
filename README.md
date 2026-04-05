@@ -1,5 +1,8 @@
 # AI-Enabled Healthcare Workflow Optimization
 **Portfolio Project | AI + Healthcare Operations + Workflow Optimization**
+## Full Portfolio Document
+
+[View Full AI Workflow Portfolio (PDF)](project-doc/ai_workflow_portfolio.pdf)
 
 ## Overview
 This project combines healthcare operations analysis with AI solution design to improve efficiency, accuracy, and workflow performance across claims processing and prior authorization systems.
