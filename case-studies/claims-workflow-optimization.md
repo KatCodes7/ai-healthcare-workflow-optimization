@@ -1,4 +1,6 @@
 # Claims Workflow Optimization
+**AI + Healthcare Operations Case Study**
+
 ## Problem 
 Healthcare claims processing involves high volumes of data across multiple systems, often requiring manual review and reconciliation. This leads to delays, increased error rates, and inefficiencies in handling member and provider requests.
 
