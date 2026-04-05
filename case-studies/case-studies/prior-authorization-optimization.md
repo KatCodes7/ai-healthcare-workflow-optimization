@@ -1,4 +1,5 @@
 # Prior Authorization Optimization
+**AI + Workflow Design + Operational Optimization**
 
 ## Problem
 Prior authorization workflows are often complex, time-sensitive, and heavily dependent on manual processes. Delays in documentation review, inconsistent requirements across payers, and fragmented communication between providers and internal teams can slow approvals and increase administrative burden.
